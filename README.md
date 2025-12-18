@@ -64,7 +64,7 @@ TASK/
 
 LLM responses are automatically logged in LangSmith.
 <img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/a506bf8f-ac16-44a1-a2af-d8922e946e7d" />
+<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/55e4cfb9-4a85-42d2-b2bd-b3fe5152c9d4" />
 
-<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/5e732163-41dc-4798-9a87-4748c36c942d" />
 
 
