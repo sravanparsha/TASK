@@ -15,7 +15,6 @@ This project demonstrates a **simple AI pipeline** using **LangChain**, **LangGr
 1. **Weather API Integration**
    - Fetch real-time weather data from OpenWeatherMap.
    - Parse city names from user queries.
-   - Retry on API failures using `tenacity`.
 
 2. **PDF RAG**
    - Load PDF documents and split text into chunks.
@@ -58,3 +57,5 @@ TASK/
 🔹 LangSmith Evaluation
 
 LLM responses are automatically logged in LangSmith.
+<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/a506bf8f-ac16-44a1-a2af-d8922e946e7d" />
+
